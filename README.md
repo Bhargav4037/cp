@@ -7,11 +7,11 @@ Command for running the program
 
 ## Sample input
 
-begin process p1
-recv_B p2 m2
-send m1
-recv_B p4 m4
-end process p1
+begin process p1< br / >
+recv_B p2 m2< br / >
+send m1< br / >
+recv_B p4 m4< br / >
+end process p1< br / >
 
 begin process p2
 send m2
